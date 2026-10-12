@@ -1,3 +1,5 @@
+# K-Nearest Neighbors (KNN)
+
 ## KNN is an algorithm used for classification and regression.
 
 Imagine a college wants to predict whether a student will pass or fail based on study hours. A new student studies 4 hours per day.
